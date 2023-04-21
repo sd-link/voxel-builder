@@ -3,9 +3,9 @@
 ![banner](media/banner.jpg?raw=true "banner")
 
 ### **Voxel-based 3D modeling application**
-A 3D modeling application to create and explore ideas quickly, from learning to voxel-art and 3D printing, create game assets, logo design, arch-viz and more. Written in JavaScript using the Babylon.js engine and available for desktop and mobile browsers
+A 3D modeling web-application to quickly create and explore ideas, from learning 3D modeling to voxel-art and 3D printing, creating game assets, logo design, arch-viz and more. It is written with JavaScript using the Babylon.js engine and is available for desktop and mobile browsers
 
-Version **4.0.0 RC 2023** *(Babylon.js 6.0.0)*
+Version **4.0.1 RC 2023** *(Babylon.js 6.0.0)*
 
 [ [Try now](https://nimadez.github.io/voxel-builder) ] [ [ Download ](https://github.com/nimadez/voxel-builder#desktop-installation) ] [ [Changelog](https://github.com/nimadez/voxel-builder/blob/main/CHANGELOG) ]
 
